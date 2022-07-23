@@ -1,6 +1,5 @@
 alter session set nls_date_format='RR/MM/DD';
 
-
 drop table emp;
 drop table dept;
 
